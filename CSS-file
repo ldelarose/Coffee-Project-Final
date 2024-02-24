@@ -4,7 +4,7 @@
 
 body {
     margin: 0;
-    background-color: burlywood;
+ 
 }
 
 h1 {
@@ -17,6 +17,8 @@ h2 {
     justify-content: center;
 }
 
+
+
 .nav {
     display: flex;
     background-color: aliceblue;
@@ -27,6 +29,19 @@ h2 {
     justify-content: center;
     position: fixed;
     top: 0;
+    left: 0;
+    right: 0;
+}
+
+.nav-bottom {
+    display: flex;
+    background-color: aliceblue;
+    font-size: small;
+    gap: 75px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    justify-content: center;
+    bottom: 0;
     left: 0;
     right: 0;
 }
@@ -64,11 +79,14 @@ h2 {
 #coffee-pic{
 
     width: 500px;
+    margin-bottom: 0;
     
 }
 
 .stella-nova {
     display: flex;
+    border-radius: 25px;
+    margin: 0 10px 0 10px;
     font-size: 75px;
     padding-top: 50px;
     padding-bottom: 50px;
@@ -87,7 +105,7 @@ h2 {
     margin-bottom: 0;
     gap: 75px;
     padding-top: 10px;
-    padding-bottom: 10px;
+    padding-bottom: 0px;
     justify-content: center;
   
 }
@@ -95,10 +113,13 @@ h2 {
 .about-us-section {
     display: flex;
     background-color: aliceblue;
+    margin-left: 10px;
+    margin-right: 10px;
     margin-top: 0;
+    margin-bottom: 0;
     gap: 10px;
     padding-top: 25px;
-    padding-bottom: 25px;
+    padding-bottom: 0px;
     justify-content: center;
 }
 
@@ -127,4 +148,29 @@ h2 {
     margin-right: 1px;
     margin-left: 0;
    
+}
+
+#home-icon:hover {
+    color:rgb(190, 78, 49);
+    
+}
+
+#insta-icon:hover {
+    color:rgb(190, 78, 49);
+    
+}
+
+#gift-icon:hover {
+    color:rgb(190, 78, 49);
+    
+}
+
+#phone-icon:hover {
+    color:rgb(190, 78, 49);
+    
+}
+
+#email-icon:hover {
+    color:rgb(190, 78, 49);
+    
 }
