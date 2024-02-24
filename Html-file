@@ -21,10 +21,10 @@
         
         </div>
 
-        <div class="middle-page">
+        <div class="middle-page" class="image-container">
 
 
-            <div><img src="coffee-img.jpg" id="coffee-pic"></div>
+            <div><img src="coffee-img.jpg" id="coffee-pic" class="slide-image"></div>
     
         </div>
 
