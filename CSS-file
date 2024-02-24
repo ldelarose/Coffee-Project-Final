@@ -1,0 +1,117 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: burlywood;
+}
+
+.nav {
+    display: flex;
+    background-color: aliceblue;
+    font-size: large;
+    gap: 75px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    justify-content: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+#home:hover {
+    color: aliceblue;
+    background-color: black;
+}
+
+#about:hover {
+    color: aliceblue;
+    background-color: black;
+}
+
+#careers:hover {
+    color: aliceblue;
+    background-color: black;
+}
+
+#gift-cards:hover {
+    color: aliceblue;
+    background-color: black;
+}
+
+#menu:hover {
+    color: aliceblue;
+    background-color: black;
+}
+
+#share-your-email:hover {
+    color: aliceblue;
+    background-color: black;
+}
+
+#coffee-pic{
+
+    width: 500px;
+    
+}
+
+.stella-nova {
+    display: flex;
+    font-size: 75px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: rgb(190, 78, 49);
+    margin-top: 70px;
+    margin-bottom: 0;
+    justify-content: center;
+    color: aliceblue;
+}
+
+.middle-page {
+    display: flex;
+    background-color: aliceblue;
+    font-size: large;
+    margin-top: 0px;
+    margin-bottom: 0;
+    gap: 75px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    justify-content: center;
+  
+}
+
+.about-us-section {
+    display: flex;
+    background-color: aliceblue;
+    margin-top: 0;
+    gap: 75px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    justify-content: center;
+}
+
+
+
+#first-paragraph {
+    background-color: rgb(190, 78, 49);
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    justify-content: center;
+    color: aliceblue;
+    margin-left: 10px;
+ 
+}
+
+#second-paragraph {
+    background-color: rgb(190, 78, 49);
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    justify-content: center;
+    color: aliceblue;
+    margin-right: 10px;
+   
+}
