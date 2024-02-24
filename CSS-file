@@ -76,6 +76,25 @@ h2 {
     background-color: black;
 }
 
+.image-container {
+    overflow: hidden;
+}
+
+.slide-image {
+   
+    animation: slideRight 5s ; 
+}
+
+@keyframes slideRight {
+    0% {
+      transform: translateX(-400%); /* Image starts off-screen to the left */
+    }
+    50% {
+      transform: translateX(0%); /* Image slides in to its natural position */
+    }
+
+  }
+
 #coffee-pic{
 
     width: 500px;
