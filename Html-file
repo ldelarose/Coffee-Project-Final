@@ -31,20 +31,20 @@
             <div id="first-paragraph">
                 <h1>Meet The Owners</h1>
                 <hr>
-                <p>
+                <article>
                     Stella Coffee, under the stewardship of Josie, Jake, Harrison, and Luis, is a charming sanctuary
                      where passion for coffee meets community. With an eclectic blend of aromatic brews, tantalizing
                       pastries, and genuine hospitality, it's more than a café—it's a haven where friendships flourish and
-                       every cup tells a story of dedication and flavor.</p>
-
+                       every cup tells a story of dedication and flavor.
+                </article>
             </div>
             <div id="second-paragraph">
                 <h2>Our Mission</h2>
                 <hr>
-                <p>Stella Coffee's mission, driven by Josie, Jake, Harrison, and Luis, is to provide an unparalleled
+                <article>Stella Coffee's mission, driven by Josie, Jake, Harrison, and Luis, is to provide an unparalleled
                      coffee experience. With an unwavering commitment to quality, they meticulously source the finest
                       beans and craft each cup with precision. Every sip reflects their dedication to excellence, ensuring
-                       that patrons not only enjoy exceptional coffee but also embark on a journey of flavor and satisfaction.</p>
+                       that patrons not only enjoy exceptional coffee but also embark on a journey of flavor and satisfaction.</article>
             </div>
         </div>
 
