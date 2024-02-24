@@ -3,6 +3,7 @@
     <head>
         <title>Coffee Project Final</title>
         <link rel="stylesheet" href="index-coffee.css">
+        <script src="https://kit.fontawesome.com/41b28097cc.js" crossorigin="anonymous"></script>
     </head>
 
     <body>
@@ -46,6 +47,14 @@
                       beans and craft each cup with precision. Every sip reflects their dedication to excellence, ensuring
                        that patrons not only enjoy exceptional coffee but also embark on a journey of flavor and satisfaction.</article>
             </div>
+        </div>
+      
+        <div class="nav-bottom">
+            <div id="home-icon"><i class="fa-solid fa-house"></i></div>
+            <div id="insta-icon"><i class="fa-brands fa-instagram"></i></div>
+            <div id="gift-icon"><i class="fa-solid fa-gift"></i></div>
+            <div id="phone-icon"><i class="fa-solid fa-phone"></i></div>
+            <div id="email-icon"><i class="fa-solid fa-envelope"></i></div>
         </div>
 
 
