@@ -7,6 +7,16 @@ body {
     background-color: burlywood;
 }
 
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+h2 {
+    display: flex;
+    justify-content: center;
+}
+
 .nav {
     display: flex;
     background-color: aliceblue;
@@ -86,7 +96,7 @@ body {
     display: flex;
     background-color: aliceblue;
     margin-top: 0;
-    gap: 75px;
+    gap: 10px;
     padding-top: 25px;
     padding-bottom: 25px;
     justify-content: center;
@@ -101,7 +111,9 @@ body {
     padding-right: 10px;
     justify-content: center;
     color: aliceblue;
-    margin-left: 10px;
+    margin-left: 1px;
+    margin-right: 0;
+    width: 2500px;
  
 }
 
@@ -112,6 +124,7 @@ body {
     padding-right: 10px;
     justify-content: center;
     color: aliceblue;
-    margin-right: 10px;
+    margin-right: 1px;
+    margin-left: 0;
    
 }
